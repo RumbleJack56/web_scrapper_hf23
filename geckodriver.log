@@ -1,0 +1,775 @@
+1696234785100	geckodriver	INFO	Listening on 127.0.0.1:62615
+1696234788161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62616" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofile8n87vq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696234788708	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696234788883	Marionette	INFO	Listening on port 62626
+WebDriver BiDi listening on ws://127.0.0.1:62616
+Read port: 62626
+1696234789195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62616/devtools/browser/e20a8d72-5ee7-420f-98a9-bb2e65bc98b3
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1696234835178	geckodriver	INFO	Listening on 127.0.0.1:62752
+1696234838248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62753" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilerqxQsl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696234838647	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696234838774	Marionette	INFO	Listening on port 62762
+WebDriver BiDi listening on ws://127.0.0.1:62753
+Read port: 62762
+1696234838971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62753/devtools/browser/2f5d9092-63ea-4fdc-9fc2-e20a03bf6d5c
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1696234977110	geckodriver	INFO	Listening on 127.0.0.1:62961
+1696234980160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62962" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofile9gPpR1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696234980514	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696234980637	Marionette	INFO	Listening on port 62971
+WebDriver BiDi listening on ws://127.0.0.1:62962
+Read port: 62971
+1696234980920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62962/devtools/browser/1be3a155-1196-4c51-a5f5-03bce3b407a6
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1696235132027	geckodriver	INFO	Listening on 127.0.0.1:63184
+1696235135074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileuaWVOT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696235135489	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696235135611	Marionette	INFO	Listening on port 63195
+Read port: 63195
+WebDriver BiDi listening on ws://127.0.0.1:63185
+1696235135693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63185/devtools/browser/a59b2198-e7c2-48bf-b2fc-37dc08b8bc72
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1696235210323	geckodriver	INFO	Listening on 127.0.0.1:63342
+1696235213359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63343" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileOqvNkD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696235213685	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696235213794	Marionette	INFO	Listening on port 63352
+WebDriver BiDi listening on ws://127.0.0.1:63343
+Read port: 63352
+1696235213935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63343/devtools/browser/cad154de-fbdd-4fa6-9ae0-8319dbbeb4fc
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1696235402347	geckodriver	INFO	Listening on 127.0.0.1:63587
+1696235405401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63588" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileTQrLb5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696235405843	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696235405965	Marionette	INFO	Listening on port 63600
+WebDriver BiDi listening on ws://127.0.0.1:63588
+Read port: 63600
+1696235406220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63588/devtools/browser/8a7e38ed-f701-45c3-af24-c81dcc7e6516
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1696235987279	geckodriver	INFO	Listening on 127.0.0.1:64211
+1696235990352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64212" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilet2qvko"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696235990682	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696235990784	Marionette	INFO	Listening on port 64223
+WebDriver BiDi listening on ws://127.0.0.1:64212
+Read port: 64223
+1696235990929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64212/devtools/browser/416adeb0-5840-45cb-b89f-694c61d77085
+1696236082337	geckodriver	INFO	Listening on 127.0.0.1:64380
+1696236085408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilewfSQVO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696236085808	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696236085933	Marionette	INFO	Listening on port 64390
+WebDriver BiDi listening on ws://127.0.0.1:64381
+Read port: 64390
+1696236086131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64381/devtools/browser/15317fb6-4b69-4ea1-9092-528f7ba8e82d
+1696236608771	geckodriver	INFO	Listening on 127.0.0.1:65017
+1696236611834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65018" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileXDfpwQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696236612161	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696236612282	Marionette	INFO	Listening on port 65028
+WebDriver BiDi listening on ws://127.0.0.1:65018
+Read port: 65028
+1696236612484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65018/devtools/browser/4477d4ed-ee8a-430e-9192-33daebacf3f3
+1696236659920	geckodriver	INFO	Listening on 127.0.0.1:65142
+1696236662935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileQUpim3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696236663339	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696236663475	Marionette	INFO	Listening on port 65153
+Read port: 65153
+WebDriver BiDi listening on ws://127.0.0.1:65143
+1696236663567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65143/devtools/browser/515ea58b-23c1-47ba-a8ea-517bb1164e85
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Unable to find target with innerWindowId:6442450945"
+1696236759236	geckodriver	INFO	Listening on 127.0.0.1:57788
+1696236762317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileTwyBRy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696236762759	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696236762891	Marionette	INFO	Listening on port 57802
+WebDriver BiDi listening on ws://127.0.0.1:57789
+Read port: 57802
+1696236763151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57789/devtools/browser/6fb79c91-20db-44c7-8ba9-1bf614eefc76
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1696236854384	geckodriver	INFO	Listening on 127.0.0.1:58002
+1696236857443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilez0fHvH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696236857774	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696236857875	Marionette	INFO	Listening on port 58013
+Read port: 58013
+WebDriver BiDi listening on ws://127.0.0.1:58003
+1696236857940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58003/devtools/browser/52a88219-2228-4c78-b7c2-d020539f8d52
+1696236884060	geckodriver	INFO	Listening on 127.0.0.1:58094
+1696236887126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58095" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilecrLzu7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696236887457	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696236887577	Marionette	INFO	Listening on port 58105
+WebDriver BiDi listening on ws://127.0.0.1:58095
+Read port: 58105
+1696236887778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58095/devtools/browser/5294e4c5-7a3c-42e4-b80b-1c4f259c7455
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1696237228788	geckodriver	INFO	Listening on 127.0.0.1:58552
+1696237231855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileb0oedz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696237232211	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696237232337	Marionette	INFO	Listening on port 58563
+WebDriver BiDi listening on ws://127.0.0.1:58553
+Read port: 58563
+1696237232579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58553/devtools/browser/bc8ad47a-a65b-458d-9c25-7103e992beea
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1696237465696	geckodriver	INFO	Listening on 127.0.0.1:58848
+1696237468741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileiOP3Xn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696237469103	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696237469251	Marionette	INFO	Listening on port 58858
+WebDriver BiDi listening on ws://127.0.0.1:58849
+Read port: 58858
+1696237469500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58849/devtools/browser/bf623fe6-75c0-47df-928a-074180cc3c35
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1696237972845	geckodriver	INFO	Listening on 127.0.0.1:59473
+1696237975912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59474" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileEj1wzW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696237976298	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696237976421	Marionette	INFO	Listening on port 59483
+WebDriver BiDi listening on ws://127.0.0.1:59474
+Read port: 59483
+1696237976657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59474/devtools/browser/48efe215-fb99-40d3-b7a7-f18e63eb27be
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1696238051643	geckodriver	INFO	Listening on 127.0.0.1:59639
+1696238054705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59640" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileyi5Z95"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696238055009	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696238055112	Marionette	INFO	Listening on port 59649
+WebDriver BiDi listening on ws://127.0.0.1:59640
+Read port: 59649
+1696238055293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59640/devtools/browser/c8005ab8-e3f6-4d7b-b95d-8ec1730d1017
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696238122323	geckodriver	INFO	Listening on 127.0.0.1:59801
+1696238125382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59802" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileGelePA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696238125702	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696238125804	Marionette	INFO	Listening on port 59812
+WebDriver BiDi listening on ws://127.0.0.1:59802
+Read port: 59812
+1696238125940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59802/devtools/browser/372f67a0-3342-472b-a66c-e92e843c67c1
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696238154779	geckodriver	INFO	Listening on 127.0.0.1:59925
+1696238157853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59926" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofiledbuWJC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696238158169	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696238158332	Marionette	INFO	Listening on port 59936
+WebDriver BiDi listening on ws://127.0.0.1:59926
+Read port: 59936
+1696238158526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59926/devtools/browser/15f88b48-a20e-4815-b866-59eca0def8af
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696238983752	geckodriver	INFO	Listening on 127.0.0.1:60784
+1696238986799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilec54SlX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696238987137	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696238987252	Marionette	INFO	Listening on port 60796
+WebDriver BiDi listening on ws://127.0.0.1:60785
+Read port: 60796
+1696238987439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60785/devtools/browser/01309f09-2b5a-4201-b526-4f1cb6580466
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696239050832	geckodriver	INFO	Listening on 127.0.0.1:60934
+1696239053867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofile84BfY8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696239054245	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696239054370	Marionette	INFO	Listening on port 60945
+WebDriver BiDi listening on ws://127.0.0.1:60935
+Read port: 60945
+1696239054608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60935/devtools/browser/8c5273d8-596d-4f7f-9841-fb7069246d26
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696239244355	geckodriver	INFO	Listening on 127.0.0.1:61223
+1696239247412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61224" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilerLXfsH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696239247837	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696239247983	Marionette	INFO	Listening on port 61235
+WebDriver BiDi listening on ws://127.0.0.1:61224
+Read port: 61235
+1696239248268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61224/devtools/browser/05783e45-d90d-42a5-b022-ece077375c4f
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696239334854	geckodriver	INFO	Listening on 127.0.0.1:61402
+1696239337905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofile4so6uZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696239338295	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696239338423	Marionette	INFO	Listening on port 61415
+WebDriver BiDi listening on ws://127.0.0.1:61403
+Read port: 61415
+1696239338618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61403/devtools/browser/b445c894-42a6-4282-8f80-8285515089b8
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696239367706	geckodriver	INFO	Listening on 127.0.0.1:61524
+1696239370774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilekGqEFo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696239371080	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696239371181	Marionette	INFO	Listening on port 61535
+WebDriver BiDi listening on ws://127.0.0.1:61525
+Read port: 61535
+1696239371359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61525/devtools/browser/12c0d468-2c18-445b-aaa4-2c4f05e008c5
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696239434976	geckodriver	INFO	Listening on 127.0.0.1:61658
+1696239438015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileBUd4qO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696239438344	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696239438460	Marionette	INFO	Listening on port 61671
+WebDriver BiDi listening on ws://127.0.0.1:61659
+Read port: 61671
+1696239438517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61659/devtools/browser/bbb6b8cb-4f14-4d88-8830-7d79a33520bd
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696239467926	geckodriver	INFO	Listening on 127.0.0.1:61775
+1696239470990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61776" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileIRxZbX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696239471306	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696239471410	Marionette	INFO	Listening on port 61785
+WebDriver BiDi listening on ws://127.0.0.1:61776
+Read port: 61785
+1696239471546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61776/devtools/browser/75f98ed8-1dc4-480d-99f4-78a982bca46d
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696239491256	geckodriver	INFO	Listening on 127.0.0.1:61878
+1696239494325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileeAxbwQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696239494639	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696239494743	Marionette	INFO	Listening on port 61888
+WebDriver BiDi listening on ws://127.0.0.1:61879
+Read port: 61888
+1696239494914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61879/devtools/browser/13a4e15b-a796-43f3-912d-adfddc6e2b26
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696239651614	geckodriver	INFO	Listening on 127.0.0.1:62058
+1696239654651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilemeqOUe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696239654967	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696239655070	Marionette	INFO	Listening on port 62067
+WebDriver BiDi listening on ws://127.0.0.1:62059
+Read port: 62067
+1696239655205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62059/devtools/browser/294e676f-5e54-4373-b889-20196b1726b1
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696239688144	geckodriver	INFO	Listening on 127.0.0.1:62180
+1696239691199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofile0A3XLF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696239691515	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696239691617	Marionette	INFO	Listening on port 62189
+WebDriver BiDi listening on ws://127.0.0.1:62181
+Read port: 62189
+1696239691786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62181/devtools/browser/6caaad07-6f60-45a7-bda4-be1064625c1e
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696239735099	geckodriver	INFO	Listening on 127.0.0.1:62296
+1696239738142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofile4IjHaL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696239738461	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696239738567	Marionette	INFO	Listening on port 62306
+WebDriver BiDi listening on ws://127.0.0.1:62297
+Read port: 62306
+1696239738736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62297/devtools/browser/b0f42612-7097-40a2-aabc-c36868022459
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696239802633	geckodriver	INFO	Listening on 127.0.0.1:62418
+1696239805699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilesJ6K6o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696239806012	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696239806125	Marionette	INFO	Listening on port 62434
+WebDriver BiDi listening on ws://127.0.0.1:62419
+Read port: 62434
+1696239806304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62419/devtools/browser/a9fb79e4-fd12-48df-a08c-73a410606cd4
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696239845700	geckodriver	INFO	Listening on 127.0.0.1:62535
+1696239848751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62536" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileHmvjIz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696239849072	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696239849176	Marionette	INFO	Listening on port 62544
+WebDriver BiDi listening on ws://127.0.0.1:62536
+Read port: 62544
+1696239849347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62536/devtools/browser/97f7083e-acd3-4cb8-89e4-2b8678f29b99
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696239875527	geckodriver	INFO	Listening on 127.0.0.1:62639
+1696239878598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62640" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileCBPXa2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696239878920	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696239879023	Marionette	INFO	Listening on port 62649
+WebDriver BiDi listening on ws://127.0.0.1:62640
+Read port: 62649
+1696239879165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62640/devtools/browser/7e44788f-b98b-4865-bb2c-4f6a09af3ad2
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696240012702	geckodriver	INFO	Listening on 127.0.0.1:62792
+1696240015762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileOKDcTG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696240016070	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696240016174	Marionette	INFO	Listening on port 62802
+WebDriver BiDi listening on ws://127.0.0.1:62793
+Read port: 62802
+1696240016340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62793/devtools/browser/cc6587f7-fc47-48ac-aa62-7fc37b6c1252
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696240141753	geckodriver	INFO	Listening on 127.0.0.1:62949
+1696240144818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62950" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileFACQxr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696240145146	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696240145250	Marionette	INFO	Listening on port 62958
+WebDriver BiDi listening on ws://127.0.0.1:62950
+Read port: 62958
+1696240145387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62950/devtools/browser/c98bcb60-b2b3-4d80-a60a-90d3155e196b
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696241724256	geckodriver	INFO	Listening on 127.0.0.1:63803
+1696241727327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63804" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofiletwwZkd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696241727674	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696241727795	Marionette	INFO	Listening on port 63813
+WebDriver BiDi listening on ws://127.0.0.1:63804
+Read port: 63813
+1696241728051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63804/devtools/browser/f898a74c-b020-46fb-b6b5-5744f03568b7
+1696241857803	geckodriver	INFO	Listening on 127.0.0.1:63929
+1696241860842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63930" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileSC9YK5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696241861222	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696241861345	Marionette	INFO	Listening on port 63940
+WebDriver BiDi listening on ws://127.0.0.1:63930
+Read port: 63940
+1696241861590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63930/devtools/browser/d5040dd2-5a4c-4229-9460-d16dd7d79342
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696242059690	geckodriver	INFO	Listening on 127.0.0.1:64121
+1696242062764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64122" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilePEOYtu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696242063083	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696242063186	Marionette	INFO	Listening on port 64132
+WebDriver BiDi listening on ws://127.0.0.1:64122
+Read port: 64132
+1696242063392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64122/devtools/browser/2d3ec4aa-6c6d-4019-a9bd-93e7a69e03e0
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696242180901	geckodriver	INFO	Listening on 127.0.0.1:64272
+1696242183970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilem1HmpQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696242184286	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696242184389	Marionette	INFO	Listening on port 64283
+WebDriver BiDi listening on ws://127.0.0.1:64273
+Read port: 64283
+1696242184524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64273/devtools/browser/94fd89cf-d2f9-4547-86ff-9ceb34a79ab1
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696242223737	geckodriver	INFO	Listening on 127.0.0.1:64385
+1696242226793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64386" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilehHdzSa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696242227102	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696242227201	Marionette	INFO	Listening on port 64397
+WebDriver BiDi listening on ws://127.0.0.1:64386
+Read port: 64397
+1696242227371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64386/devtools/browser/e2786932-3f64-427d-a083-01e35ad0a3f2
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696243875022	geckodriver	INFO	Listening on 127.0.0.1:65341
+1696243878054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65342" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilePx1p1F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696243878374	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696243878538	Marionette	INFO	Listening on port 65350
+WebDriver BiDi listening on ws://127.0.0.1:65342
+Read port: 65350
+1696243878747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65342/devtools/browser/0fdcaf1a-e214-4e2a-9f3c-9e660336cc76
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696244174460	geckodriver	INFO	Listening on 127.0.0.1:49200
+1696244177514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofile92d3dc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696244177835	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696244177942	Marionette	INFO	Listening on port 49212
+WebDriver BiDi listening on ws://127.0.0.1:49201
+Read port: 49212
+1696244178110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49201/devtools/browser/890e6b37-28d3-4b1d-834f-993d3d61f3f3
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696244209401	geckodriver	INFO	Listening on 127.0.0.1:49307
+1696244212476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49308" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilePzN4VM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696244212786	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696244212890	Marionette	INFO	Listening on port 49316
+WebDriver BiDi listening on ws://127.0.0.1:49308
+Read port: 49316
+1696244213061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49308/devtools/browser/bc25eaf3-a9df-40b8-98ac-426577668b01
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696244223011	geckodriver	INFO	Listening on 127.0.0.1:49396
+1696244226093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileuwpqaF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696244226417	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696244226524	Marionette	INFO	Listening on port 49406
+WebDriver BiDi listening on ws://127.0.0.1:49397
+Read port: 49406
+1696244226708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49397/devtools/browser/48f44a94-cd06-4324-9880-e781daa1f46c
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696244543076	geckodriver	INFO	Listening on 127.0.0.1:49659
+1696244546133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49660" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilePA80uM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696244546456	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696244546568	Marionette	INFO	Listening on port 49673
+WebDriver BiDi listening on ws://127.0.0.1:49660
+Read port: 49673
+1696244546707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49660/devtools/browser/87332885-9be8-4c0b-8a4c-6d37b9de7837
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1696244554835	geckodriver	INFO	Listening on 127.0.0.1:49749
+1696244557920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49750" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofile11skFc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696244558226	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696244558327	Marionette	INFO	Listening on port 49759
+WebDriver BiDi listening on ws://127.0.0.1:49750
+Read port: 49759
+1696244558496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49750/devtools/browser/90ede5c6-db71-4ccd-b553-77f161a51eb6
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696244568374	geckodriver	INFO	Listening on 127.0.0.1:49842
+1696244571416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileIJ0FLg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696244571726	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696244571847	Marionette	INFO	Listening on port 49851
+Read port: 49851
+WebDriver BiDi listening on ws://127.0.0.1:49843
+1696244571924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49843/devtools/browser/147f6077-2c14-425c-a1cc-f3be2fcba911
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696244699966	geckodriver	INFO	Listening on 127.0.0.1:49996
+1696244703041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofile8cQTq3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696244703355	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696244703456	Marionette	INFO	Listening on port 50066
+WebDriver BiDi listening on ws://127.0.0.1:49997
+Read port: 50066
+1696244703625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49997/devtools/browser/657ba954-9521-4a16-abab-ef9bc5af1040
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696244915797	geckodriver	INFO	Listening on 127.0.0.1:50244
+1696244918870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilecnCHGk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696244919181	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696244919301	Marionette	INFO	Listening on port 50256
+Read port: 50256
+WebDriver BiDi listening on ws://127.0.0.1:50245
+1696244919404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50245/devtools/browser/cfb02b50-edfd-4c8f-9bcd-72a138485224
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696245090783	geckodriver	INFO	Listening on 127.0.0.1:50450
+1696245093847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofile70VtHI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696245094190	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696245094294	Marionette	INFO	Listening on port 50460
+Read port: 50460
+WebDriver BiDi listening on ws://127.0.0.1:50451
+1696245094349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50451/devtools/browser/bbc2d291-8092-4171-971b-1199844b851b
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696245117324	geckodriver	INFO	Listening on 127.0.0.1:50560
+1696245120401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofiletraWgX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696245120710	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696245120810	Marionette	INFO	Listening on port 50570
+WebDriver BiDi listening on ws://127.0.0.1:50561
+Read port: 50570
+1696245120982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50561/devtools/browser/70fdf796-77a9-4a1b-a2ef-c7e7f06e64e6
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1696245138886	geckodriver	INFO	Listening on 127.0.0.1:50670
+1696245141965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileuZzIRc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696245142287	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696245142391	Marionette	INFO	Listening on port 50680
+WebDriver BiDi listening on ws://127.0.0.1:50671
+Read port: 50680
+1696245142524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50671/devtools/browser/972a47d8-1198-47ab-a83c-ff94b4d4022f
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696247242325	geckodriver	INFO	Listening on 127.0.0.1:51767
+1696247245389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51768" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileuFg1bK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696247245703	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696247245806	Marionette	INFO	Listening on port 51777
+WebDriver BiDi listening on ws://127.0.0.1:51768
+Read port: 51777
+1696247245967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51768/devtools/browser/99a6ee92-7b51-4e4c-b6fa-80d144ef2623
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696247341545	geckodriver	INFO	Listening on 127.0.0.1:51915
+1696247344584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51916" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileVOucan"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696247344981	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696247345106	Marionette	INFO	Listening on port 51925
+WebDriver BiDi listening on ws://127.0.0.1:51916
+Read port: 51925
+1696247345295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51916/devtools/browser/4da2b540-ffa3-4f5e-91bd-b8f2779e3704
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696247389543	geckodriver	INFO	Listening on 127.0.0.1:52032
+1696247392576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilexKbhZx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696247392909	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696247393012	Marionette	INFO	Listening on port 52042
+WebDriver BiDi listening on ws://127.0.0.1:52033
+Read port: 52042
+1696247393148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52033/devtools/browser/c81ad7a8-cc12-4b8a-86b1-fc6a13c696a6
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696247616381	geckodriver	INFO	Listening on 127.0.0.1:52246
+1696247619430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofileP0aKU4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696247619868	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696247620001	Marionette	INFO	Listening on port 52261
+WebDriver BiDi listening on ws://127.0.0.1:52247
+Read port: 52261
+1696247620292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52247/devtools/browser/8e3f86db-c413-4e04-893a-369cb213eff0
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?V, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696783407161	geckodriver	INFO	Listening on 127.0.0.1:53004
+1696783410218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofilei2mLWQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696783411138	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696783411428	Marionette	INFO	Listening on port 53017
+WebDriver BiDi listening on ws://127.0.0.1:53005
+Read port: 53017
+1696783411758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53005/devtools/browser/8f5b909d-d47a-416b-acdc-cab57b578b59
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?Y, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+1696783438094	geckodriver	INFO	Listening on 127.0.0.1:53109
+1696783441136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53110" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UJJWAL~1\\AppData\\Local\\Temp\\rust_mozprofile2L8ari"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696783441637	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696783441878	Marionette	INFO	Listening on port 53120
+WebDriver BiDi listening on ws://127.0.0.1:53110
+Read port: 53120
+1696783442134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53110/devtools/browser/b80495ec-1b5f-4ffc-9f1b-84a142eff322
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.codechef.com/js/jquery/1.9.1/jquery.min.js?Y, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.codechef.com."
